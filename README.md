@@ -1,1 +1,1 @@
-# send-link-to-pc-ios-shortchut
+# send-link-to-pc-ios-shortcut
