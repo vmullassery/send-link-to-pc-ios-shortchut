@@ -6,4 +6,4 @@
 ## Install iOS shortcut:
 ### https://www.icloud.com/shortcuts/90bde4d3250e49319d23ff455a85e0c9
 
-![Shortcut link](https://raw.githubusercontent.com/vmullassery/send-link-to-pc-ios-shortcut/main/qr-code.png)
+
